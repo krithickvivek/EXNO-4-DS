@@ -42,6 +42,8 @@ The feature selection techniques used are:
 ![image](https://github.com/user-attachments/assets/a62aa560-cef7-4777-86de-59dd8c3fcb1b)
 ![image](https://github.com/user-attachments/assets/1359c0ce-694b-4e32-91d9-207bae128444)
 ![image](https://github.com/user-attachments/assets/56b62ea3-5912-4c1a-97cd-71b53bed7353)
+![image](https://github.com/user-attachments/assets/615df407-439b-44b9-84e4-410ad70d0e82)
+![image](https://github.com/user-attachments/assets/fdb6aeb6-917d-4f5d-9629-ce3667260570)
 
 # RESULT:
 Thus perform Feature Scaling and Feature Selection process and save the data to a file successfully.
